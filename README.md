@@ -111,7 +111,4 @@ Aspiring Data Analyst | Power BI | SQL | Python | Excel | Tableau
 
 ---
 
-## 📎 Project Link
 
-GitHub Repository:
-(Add your repository link here after uploading)
